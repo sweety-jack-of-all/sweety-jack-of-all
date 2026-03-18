@@ -1,20 +1,55 @@
-Hi there 👋 I'm Sweety Dave
-🚀 Frontend Developer | Aspiring AI Engineer | Data Management
+# 👋 Hi, I'm Sweety Dave
 
-I’m a developer passionate about building clean, scalable, and user-friendly applications while exploring how AI can transform everyday development. With experience in React.js, AngularJS, Node.js, and GraphQL, I enjoy turning complex problems into simple, elegant solutions.
+🚀 Frontend Developer | 🤖 Aspiring AI Engineer | 🇨🇦 Based in Canada
 
-Currently, I’m leveling up in Artificial Intelligence & Machine Learning, combining my frontend expertise with AI to create intelligent, interactive applications.
+I build **scalable, user-friendly web apps** and I'm currently diving deep into **AI + Full Stack Development**.
 
-🔧 Tech I work with:
-Frontend: React.js, AngularJS, Next.js, TailwindCSS
-Backend: Node.js, Express, GraphQL, REST APIs
-AI/ML (Learning): Python, PyTorch, TensorFlow, LLMs
-Other: Git, Docker, SQL, MongoDB
+---
 
-🌱 What I’m working on:
-📂 Building AI + Frontend projects for my portfolio
-📖 Creating a roadmap for my journey into AI Engineering
-🤝 Open to collaborating on innovative projects
+## 💡 About Me
+
+* 💻 4+ years in Frontend & Backend Development
+* ⚡ Skilled in React, Next.js, Node.js, GraphQL
+* 🤖 Currently learning AI, LLMs & MLOps
+* 🎯 Goal: Become an AI Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+
+* React.js
+* Next.js
+* Angular
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* GraphQL
+
+### 🤖 AI / Learning
+
+* Python
+* Machine Learning Basics
+* OpenAI APIs
+* AI + Frontend Integrations
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Live Streaming Traffic System
+
+Real-time data processing system using Python
+
+### 🔹 AI-powered Web Apps *(Coming Soon)*
+
+Integrating LLMs into modern UI
+
+
+⭐ *“Building today for the intelligent systems of tomorrow.”*
 
 📫 Let’s connect:
 ## 🌐 Connect
