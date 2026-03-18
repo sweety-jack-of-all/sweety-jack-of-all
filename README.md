@@ -38,6 +38,11 @@ I build **scalable, user-friendly web apps** and I'm currently diving deep into 
 
 ---
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![AI](https://img.shields.io/badge/AI-Learning-blue?style=for-the-badge)
+
 ## 📌 Featured Projects
 
 ### 🔹 Live Streaming Traffic System
