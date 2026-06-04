@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sweety Dave
 
-🚀 Frontend Developer | 🤖 Aspiring AI Engineer | 🇨🇦 Based in Canada
+🚀 Web Developer | 🤖 Aspiring AI Engineer | 🇨🇦 Based in Canada
 
 I build **scalable, user-friendly web apps** and I'm currently diving deep into **AI + Full Stack Development**.
 
@@ -8,8 +8,8 @@ I build **scalable, user-friendly web apps** and I'm currently diving deep into 
 
 ## 💡 About Me
 
-* 💻 4+ years in Frontend & Backend Development
-* ⚡ Skilled in React, Next.js, Node.js, GraphQL
+* 💻 5+ years in Frontend & Backend Development
+* ⚡ Skilled in Angular, React, Next.js, Node.js, GraphQL, WordPress, PHP
 * 🤖 Currently learning AI, LLMs & MLOps
 * 🎯 Goal: Become an AI Engineer
 
@@ -28,6 +28,8 @@ I build **scalable, user-friendly web apps** and I'm currently diving deep into 
 * Node.js
 * Express.js
 * GraphQL
+* PHP
+* Word Press
 
 ### 🤖 AI / Learning
 
